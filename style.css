@@ -109,7 +109,7 @@ nav.sticky .menu-btn{
 .home{
   height: 80vh;
   width: 100%;
-  background-image: src("i.ibb.co/WfXhYRP/background.jpg");
+  background-image: url("i.ibb.co/WfXhYRP/background.jpg");
   background-size: 1000px,1000px;
   background-position: center;
   background-attachment: fixed;
