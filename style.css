@@ -109,7 +109,6 @@ nav.sticky .menu-btn{
 .home{
   height: 80vh;
   width: 100%;
-  
   font-family: 'Ubuntu', sans-serif;
 }
 .home .home-content{
@@ -119,8 +118,8 @@ nav.sticky .menu-btn{
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url("https://ibb.co/7JMRSvQ");
-  background-size: 1000px,1000px;
+  background: url("https://ibb.co/7JMRSvQ");
+  background-size: 1000px,500px;
   background-position: right;
   background-attachment: fixed;
 }
