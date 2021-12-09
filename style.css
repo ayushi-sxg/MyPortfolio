@@ -107,13 +107,16 @@ nav.sticky .menu-btn{
 
 /* home section styling */
 .home{
+  font-family: 'Ubuntu', sans-serif;
+}
+.home #home-bg{
   height: 80vh;
   width: 100%;
   background-image: url("https://ibb.co/7JMRSvQ");
+  float: right;
   background-size: 1000px,1000px;
   background-position: center;
   background-attachment: fixed;
-  font-family: 'Ubuntu', sans-serif;
 }
 .home .home-content{
   width: 90%;
